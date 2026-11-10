@@ -1,0 +1,6 @@
+{
+  "name": "Fisio Reabilitar - Fisioterapia e Pilates",
+  "description": "Clínica especializada em fisioterapia ortopédica, RPG, pilates clínico e reabilitação funcional de alta precisão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
